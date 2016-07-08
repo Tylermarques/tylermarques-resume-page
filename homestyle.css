@@ -6,5 +6,6 @@ html {
 }
 div {
     border: black, 0.2em;
-    
+    background: #000000;
+
 }
