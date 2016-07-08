@@ -1,0 +1,10 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 1em
+}
+div {
+    border: black, 0.2em;
+    
+}
